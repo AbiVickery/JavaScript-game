@@ -14,7 +14,7 @@ background: linear-gradient(0deg, rgba(115,207,175,1) 0%, rgba(153,75,113,1) 31%
     width: calc(1440px /18 );
     height: 90px;
     background: url(Doctor\ Whooves-boop.png);
-    animation: animate 500ms steps(18) infinite;
+    animation: animate 700ms steps(18) infinite;
     margin: -200px 95px -375px 22px;
 }
 @keyframes animate {
