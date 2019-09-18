@@ -45,6 +45,26 @@ background: linear-gradient(0deg, rgba(115,207,175,1) 0%, rgba(153,75,113,1) 31%
         background-position: 1440px;
     }
 }
+#weep1 {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(1440px /18 );
+    height: 90px;
+    background: url(weeping\ angle-boop.png);
+    animation: animate 700ms steps(18) infinite;
+    margin: 400px 48px 365px -44px;
+}
+@keyframes animate {
+    from {
+        background-position: 0;
+    }
+    to {
+        background-position: 1440px;
+    }
+}
 /* #dalek1 {
     max-width: 100%;
     position: absolute;
