@@ -1,3 +1,24 @@
 body {
     text-align: center;
 }
+
+#spk1 {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(1440px /44 );
+    height: 90px;
+    background: url(Doctor_Whooves-boop.png);
+    animation: animate 500ms steps(44) infinite;
+    margin: -200px 95px -375px 22px;
+}
+@keyframes animate {
+    from {
+        background-position: 0;
+    }
+    to {
+        background-position: 1440px;
+    }
+}
