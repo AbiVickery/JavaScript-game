@@ -75,7 +75,7 @@ background: linear-gradient(0deg, rgba(115,207,175,1) 0%, rgba(153,75,113,1) 31%
     height: 90px;
     background: url(weeping\ angel-boop.png);
     animation: animate 700ms steps(18) infinite;
-    margin: 200px 48px 115px -22px;
+    margin: -201px 56px 129px -25px;
 }
 @keyframes animate {
     from {
