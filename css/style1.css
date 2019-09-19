@@ -1,0 +1,20 @@
+#spk2 {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(1280px /16 );
+    height: 90px;
+    background: url(Sparkly\ Keys\ 🎹-trot.png);
+    animation: animate 700ms steps(16) infinite;
+    margin: -201px -149px 365px 90px;
+}
+@keyframes animate {
+    from {
+        background-position: 0;
+    }
+    to {
+        background-position: 1280px;
+    }
+}
