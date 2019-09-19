@@ -12,10 +12,10 @@
 }
 @keyframes animate {
     from {
-        background-position: 0;
+        background-position: 1280px;
     }
     to {
-        background-position: 1280px;
+        background-position: 0;
     }
 }
 #doctor11b {
@@ -32,10 +32,10 @@
 }
 @keyframes animate {
     from {
-        background-position: 0;
+        background-position: 1280px;
     }
     to {
-        background-position: 1280px;
+        background-position: 0;
     }
 }
 #doctor10b {
@@ -51,9 +51,9 @@
 }
 @keyframes animate {
     from {
-        background-position: 0;
+        background-position: 1280px;
     }
     to {
-        background-position: 1280px;
+        background-position: 0;
     }
 }
