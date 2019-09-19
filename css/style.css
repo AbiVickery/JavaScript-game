@@ -35,7 +35,7 @@ body {
     height: 90px;
     background: url(10th\ doctor-boop.png);
     animation: animate 700ms steps(18) infinite;
-    margin: -200px 95px -375px 22px;
+    margin: -138px 95px -375px 22px;
 }
 @keyframes animate {
     from {
