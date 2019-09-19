@@ -55,7 +55,7 @@ body {
     height: 90px;
     background: url(Sparkly\ Keys\ 🎹-boop.png);
     animation: animate 700ms steps(18) infinite;
-    margin: -143px -58px 365px 26px;
+    margin: -201px -149px 365px 69px;
 }
 @keyframes animate {
     from {
